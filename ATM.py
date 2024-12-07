@@ -81,5 +81,5 @@ def main():
     
     print("Thank you for banking with us!")
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
